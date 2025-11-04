@@ -1,0 +1,16 @@
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\bin\Debug\net8.0-windows\Exemplo.exe
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\bin\Debug\net8.0-windows\Exemplo.deps.json
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\bin\Debug\net8.0-windows\Exemplo.runtimeconfig.json
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\bin\Debug\net8.0-windows\Exemplo.dll
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\bin\Debug\net8.0-windows\Exemplo.pdb
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\obj\Debug\net8.0-windows\Exemplo.Form1.resources
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\obj\Debug\net8.0-windows\Exemplo.csproj.GenerateResource.cache
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\obj\Debug\net8.0-windows\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\obj\Debug\net8.0-windows\Exemplo.AssemblyInfoInputs.cache
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\obj\Debug\net8.0-windows\Exemplo.AssemblyInfo.cs
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\obj\Debug\net8.0-windows\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\obj\Debug\net8.0-windows\Exemplo.dll
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\obj\Debug\net8.0-windows\refint\Exemplo.dll
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\obj\Debug\net8.0-windows\Exemplo.pdb
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\obj\Debug\net8.0-windows\Exemplo.genruntimeconfig.cache
+C:\Users\aluno.senai.pjcn\source\repos\Exemplo\obj\Debug\net8.0-windows\ref\Exemplo.dll
