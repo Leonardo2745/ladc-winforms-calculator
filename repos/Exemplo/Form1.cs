@@ -185,14 +185,7 @@ namespace Exemplo
             printResult(op.getX(), op.getY(), "^", result);
         }
 
-        private void labelResult_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
+       
+        
     }
 }
