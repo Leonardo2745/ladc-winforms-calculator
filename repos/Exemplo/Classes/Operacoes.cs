@@ -65,7 +65,7 @@ namespace Exemplo.Classes
         }
         public double raiz()
         {
-            return Math.Round(Math.Sqrt(this.x));
+            return (Math.Sqrt(this.x));
         }
 
         public double porcentagem()
@@ -83,19 +83,21 @@ namespace Exemplo.Classes
             }
             else
             {
-                string resultado = "";
+                string restos = "";
 
                 while (value > 0)
                 {
-                    long resto = value % 2;
+                    restos += value % 2;
 
-                    value /= 2;
-
-                    resultado += (resto == 0) ? 1 : 0;
+                    value = value / 2;
 
                 }
-                return int.Parse(resultado);
-
+                string resultadoBinario = "";
+                for (int i = restos.Length-1;i >= 0; i--)
+                {
+                    resultadoBinario += restos[i];
+                }
+                return double.Parse(resultadoBinario);
             }
         }
         public double elevado()
