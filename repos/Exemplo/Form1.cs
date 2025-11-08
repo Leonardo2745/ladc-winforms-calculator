@@ -125,6 +125,10 @@ namespace Exemplo
             printResult(op.getX(), op.getY(), " * ", result);
         }
 
+
+
+
+
         private void btnDiv_Click(object sender, EventArgs e)
         {
             calc = "divisao";
